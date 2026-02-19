@@ -4,7 +4,7 @@ description: Decompose any complex system behavior into a "society" of interacti
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5007
+  version: 1.0.5008
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - society-decomposition
